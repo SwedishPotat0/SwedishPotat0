@@ -3,13 +3,9 @@ I'm a Sweden based hobby developer building whatever I feel like doing.
 
 ### Things I'm working on:
 
-* [waypoint](https://github.com/SwedishPotat0/waypoint)
-    
-    This is my main project I'm working on.
+* [waypoint](https://github.com/SwedishPotat0/waypoint) - This is my main project I'm working on.
 
-* [waypoint.vim](https://github.com/SwedishPotat0/waypoint.vim)
-    
-    A vim plugin for waypoint. 
+* [waypoint.vim](https://github.com/SwedishPotat0/waypoint.vim) - A vim plugin for waypoint. 
 
 <!--
 **SwedishPotat0/SwedishPotat0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
