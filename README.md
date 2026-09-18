@@ -1,6 +1,7 @@
+### SwedishPotat0
 I'm a Sweden based hobby developer building whatever I feel like doing.
 
-## Things I'm working on:
+### Things I'm working on:
 
 * [waypoint](https://github.com/SwedishPotat0/waypoint)
     
